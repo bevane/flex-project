@@ -9,7 +9,7 @@ body {
     background-color: #1F2937;
     display: flex;
     justify-content: space-between;
-    padding: 0px 250px 0px 250px;
+    padding: 0px 250px;
     align-items: center;
 }
 
@@ -33,7 +33,7 @@ body {
 .intro {
     background-color: #1F2937;
     display: flex;
-    padding: 100px 250px 100px 250px;
+    padding: 100px 250px;
     gap: 50px;
 }
 
@@ -62,8 +62,48 @@ body {
     color: #fff;
     font-weight: 600;
     background-color: #3882F6;
-    padding: 10px 15px 10px 15px;
+    padding: 10px 15px;
     max-width: 100px;
     text-align: center;
     border-radius: 10px;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 75px 0;
+}
+
+.info-header {
+    margin-bottom: 75px;
+    font-size: 36px;
+    font-weight:800;
+    color: #1f2937;
+
+}
+
+.collage {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border: solid 5px #3882F6;
+    border-radius: 20px;
+}
+
+.description {
+    padding: 10px 0;
+    color: #1f2937;
 }
