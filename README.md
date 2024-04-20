@@ -1,5 +1,5 @@
 # Landing page for a fictional space-travel startup
-## [Spaceskip Landing Page](bevane.github.io/flex-project)
+## [Spaceskip Landing Page](https://bevane.github.io/flex-project)
 
 A landing page created with only html and css to showcase flexbox usage.
 
