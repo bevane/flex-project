@@ -165,4 +165,13 @@ body {
 
 .signup-box .signup-btn {
     border: solid 2px white;
+    align-self: flex-end;
+}
+
+.footer {
+    background-color: #1f2937;
+    text-align: center;
+    padding: 40px 0;
+    font-size: 18px;
+    color: white;
 }
